@@ -33,13 +33,6 @@ Passionate about building scalable web applications and data-driven solutions. S
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)  
 
 ---
-## 📊 GitHub Stats
-
-![Yohanis' GitHub Stats](https://github-readme-stats.vercel.app/api?username=yohanes1m&token=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&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yohanes1m&layout=compact&count_private=true&token=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&theme=tokyonight)
-
----
 ## 🌍 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yohanis-mandefro)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](yohanis-mandefro.tech)  
