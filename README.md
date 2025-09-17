@@ -33,6 +33,7 @@ Passionate about building scalable web applications and data-driven solutions. S
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)  
 
 ---
+![Yohanis' GitHub Stats](https://github-readme-stats.vercel.app/api?username=yohanes1m&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yohanes1m&layout=compact&theme=radical&count_private=true)
 
 ---
